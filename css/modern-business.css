@@ -1,0 +1,220 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 1px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.clear{
+	clear:both;
+}
+
+.mt-5 {	
+	margin-top:5rem!important;
+}
+
+.hidden{
+display:none!important;
+	
+}
+
+#sidebar-search-form input {
+    margin: 0;
+    width: 230px;
+    border: solid 2px #cacaca;
+    background-color: transparent;
+    color: #5a5a5a;
+    border-radius: 30px;
+    line-height: 1em;
+    height: 2.3em;
+}
+.text-dark_search{
+	
+position:relative;
+left:-47px;
+top:3px;
+}
+
+
+.card-search{
+	padding:.9rem!important;
+}
+.btndark{
+    background: #edaf2b!important;
+	border:none!important;
+ 
+  border-radius: 25px;
+  border: 1px solid none!important;	
+	}
+.nav-link_a  {
+   color:#fff!important;
+ border:none!important;
+}
+ 
+	 
+		
+.primary{
+	 background: #edaf2b!important;
+	border:none!important}}
+	
+	
+#breadcrumb-container {
+    border-radius: 6px;
+    position: relative;
+    top: -40px;
+    height: 46px;
+    background-color: #fefefe;
+    padding: 8px;
+}
+ 
+.cardheader  {
+ 
+	   background-color: #edaf2b;
+ 
+	   border:0!important; 
+ border-radius:0!important;
+}
+#page-header-bar {
+    background-color: #303030;
+    height: 130px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.parallax-img-wine {
+    background: linear-gradient(rgba(192,192,192,0.3),rgba(192,192,192,0.3)),url(../images/Banner.jpg);
+}
+
+.breadcrumb_new {
+
+    border-radius: 6px;
+    position: relative;
+    top: -40px;
+    height: 46px;
+	
+    background-color: #fefefe;
+ 
+}
+.jumbotroncr{
+	 background:rgba(0,0,0,.03)!important;
+}
+ .textink-dark{
+    color: #fff!important;
+	font-weight:500;
+ 
+	}
+  .mr-7{
+	 
+	 margin-right:.7rem!important;
+ }
+ .card-br {
+ 
+   border:0!important; 
+ border-radius:0!important;
+    
+}
+.bg-light{
+	background-color:#f8f8f8!important;}
+.bg-dark{	
+	background: #242424!important;
+    color: #c4c4c4!important;
+}
+
+.txt-cr{
+	color:#edaf2b!important;
+	
+}
+.site-footer {
+    background: #0f0f0f;
+}
+.site-footer, .site-footer .copyright-footer {
+    color: #c4c4c4;
+}
+ 
+.site-footer img {
+    margin-bottom: 32px;
+}
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+img {
+    height: auto;
+}
+img {
+    max-width: 100%;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+.site-footer .row > div > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.site-footer > .container {
+    padding-top: 68px;
+    padding-bottom: 60px;
+}
+.container {
+    position: relative;
+}
+.copyright-footer{
+ 
+color:#c4c4c4!important;
+
+}
+.site-footer .copyright-footer, .site-footer.style-2 .copyright-footer, .site-footer.style-3 .copyright-footer {
+    background: #242424;
+    color: #c4c4c4;
+}
+
+.site-footer .widget-title {
+    font-size: 17px;
+    margin-top: -6px;
+    margin-bottom: 38px;
+    text-transform: uppercase;
+}
+.wpcf7-form input.wpcf7-text, .wpcf7-form textarea, .wpcf7-select, .wpcf7-form input.wpcf7-date {
+    background: none repeat scroll 0 0 #fbfbfb;
+    border: 1px solid #e6e6e6;
+    border-radius: 0;
+    color: #5b5b5b;
+    height: 40px;
+    line-height: 35px;
+    margin-bottom: 15px;
+    padding-left: 25px;
+    width: 100%;
+}
+.wpcf7-form textarea {
+    min-height: 157px;
+    padding-top: 10px;
+}
